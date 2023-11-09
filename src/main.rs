@@ -4,7 +4,7 @@ fn main() {
     //let p2= "hola";
     //p1::fp();
     //print!("{}", p2);
-    //print!("    ");
+    print!("    ");
 
     for numero in 1..=10 {
         print!("{:2}",numero);
